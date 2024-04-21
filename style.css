@@ -4,7 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(images/deer.jpg);
+    background-image: url("deer.jpg");
     background-size: cover;
     background-position: center;
 }
